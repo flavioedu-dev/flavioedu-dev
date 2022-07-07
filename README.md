@@ -2,6 +2,7 @@
 
 ![Flávio Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=xFlax00&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFlax00)](https://github.com/xFlax00/github-readme-stats)
 
 ## Tecnologias usadas
 

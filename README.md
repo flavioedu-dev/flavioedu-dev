@@ -15,5 +15,3 @@
 <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" />
 
 </div><br>
-
-Granduando no curso tecnólogo de Análise e Desenvolvimento de Sistemas e buscando aprender mais sobre Desenvolvimento Web.

@@ -14,4 +14,4 @@
 
 </div><br>
 
-Granduando no curso tecnólogo de Análise e Desenvolvimento de Sistemas e buscando aprender mais sobre Desenvolvimento Web.
+Graduando no curso tecnólogo de Análise e Desenvolvimento de Sistemas e buscando aprender mais sobre Desenvolvimento Web.

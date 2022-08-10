@@ -1,8 +1,8 @@
-## Olá! Eu sou o Flávio Eduardo ✌🏾
+## Hello! I'm Flávio Eduardo ✌🏾
 
 ![Flávio Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=xFlax00&show_icons=true&theme=dracula)
 
-## Tecnologias usadas
+## Technologies used
 
 <div style="display: inline_block"><br>
 

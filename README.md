@@ -15,4 +15,4 @@
 
 </div><br>
 
-Graduando no curso tecnólogo de Análise e Desenvolvimento de Sistemas e buscando aprender mais sobre Desenvolvimento Web.
+Graduating in the technologist course of Systems Analysis and Development and seeking to learn more about Web Development.

@@ -1,8 +1,8 @@
-## Hello! I'm Flávio Eduardo ✌🏾
+## Olá, eu sou Flávio Eduardo ✌🏾
 
 ![Flávio Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=xFlax00&show_icons=true&theme=dracula)
 
-## Technologies used
+## Tecnologias usadas
 
 <div style="display: inline_block"><br>
 
@@ -15,4 +15,4 @@
 
 </div><br>
 
-Graduating in the technologist course of Systems Analysis and Development and seeking to learn more about Web Development.
+Graduando no curso tecnólogo de Análise e Desenvolvimento de Sistemas, amante da tecnologia e em busca de aprender mais sobre Desenvolvimento Web.

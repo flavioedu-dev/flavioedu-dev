@@ -15,4 +15,4 @@
 
 </div><br>
 
-Graduando no curso tecnólogo de Análise e Desenvolvimento de Sistemas, amante da tecnologia e em busca de aprender mais sobre Desenvolvimento Web.
+Graduando no curso tecnólogo de Análise e Desenvolvimento de Sistemas, dev com foco em Desenvolvimento Web, amo tecnologia e as coisas que ela torna possível, tenho prazer em solucionar problemas e estou em constante aprendizado.

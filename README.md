@@ -4,9 +4,9 @@
 
 
 <div style="border:1px solid #fff;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xFlax00&show_icons=true&theme=radical" alt="Status"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioedu-dev&show_icons=true&theme=radical" alt="Status"/>
   
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFlax00&layout=compact&theme=radical" alt="Languages"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioedu-dev&layout=compact&theme=radical" alt="Languages"/>
 </div>
 
 ## Tecnologias usadas

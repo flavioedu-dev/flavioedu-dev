@@ -1,6 +1,8 @@
-# Olá, eu sou Flávio Eduardo ✌
+# Hello, I'm Flávio Eduardo ✌
 
-## Estatísticas Github
+Frontend developer and I also have a little fun with the backend, I am passionate about technology, I have a love of learning and I am grateful for every learning. Currently, graduating as a technologist in Systems Analysis and Development at IFPI Campus Picos.
+
+## Github status
 
 
 <div style="border:1px solid #fff;">
@@ -9,7 +11,7 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioedu-dev&layout=compact&theme=radical" alt="Languages"/>
 </div>
 
-## Tecnologias usadas
+## Most used technologies
 
 <div style="display: inline_block"><br>
 
@@ -24,5 +26,3 @@
 <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 
 </div><br>
-
-Graduando no curso tecnólogo de Análise e Desenvolvimento de Sistemas, dev com foco em Desenvolvimento Web, amo tecnologia e as coisas que ela torna possível, tenho prazer em solucionar problemas e estou em constante aprendizado.

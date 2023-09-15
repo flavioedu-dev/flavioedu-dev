@@ -1,6 +1,6 @@
 # Hello, I'm Flávio Eduardo ✌
 
-Frontend developer and I also have a little fun with the backend, I am passionate about technology, I have a love of learning and I am grateful for every learning. Currently, graduating as a technologist in Systems Analysis and Development at IFPI Campus Picos.
+Fullstack developer, passionate about technology, I have a love of learning and I am grateful for every learning. Currently, graduating as a technologist in Systems Analysis and Development at IFPI Campus Picos.
 
 ## Github status
 
